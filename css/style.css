@@ -1,0 +1,43 @@
+body{
+  background-color:  #1dd3bd;
+  margin: 0;
+  text-align: center;
+  font-family: 'Bad Script', cursive;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 0;
+}
+.span{
+  color: purple;
+}
+.top-container{
+  position: relative;
+  padding-top: 60px;
+  background-color: #1dd3bd;
+  height: 100%;
+  width: 100%;
+}
+.middle-container{
+  background-color: #1dd3bd;
+  padding-top: 10px;
+
+}
+.bottom-container{
+  background-color:  #1dd3bd;S
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.webd{
+  font-family: 'Cookie', cursive;
+  font-size: 30px;
+}
